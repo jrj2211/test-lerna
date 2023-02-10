@@ -1,11 +1,7 @@
 {
   "ci": false,
-  "packages": ["packages/*"],
   "version": "1.0.0",
   "command": {
-    "bootstrap": {
-      "hoist": true
-    },
     "publish": {
       "allowBranch": ["main"],
       "message": "chore(release): publish %s",
