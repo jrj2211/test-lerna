@@ -19,5 +19,7 @@
   "dependencies": {
     "lerna": "^6.4.1"
   },
-  "gitHead": "59aa1a74e2244a5e535372a589bb124ca3c1b057"
+  "publishConfig": {
+    "access": "public"
+  }
 }
